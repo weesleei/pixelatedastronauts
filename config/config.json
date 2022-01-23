@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa0AC9b2f4740503D1c63932c50B6F3e363aFD31b",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa0ac9b2f4740503d1c63932c50b6f3e363afd31b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pixel Ape Social Club",
+  "SYMBOL": "PASC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/triangules-eyes-dapp-rikeby",
+  "SHOW_BACKGROUND": true
+}
